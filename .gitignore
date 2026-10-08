@@ -1,0 +1,10 @@
+# ===== 构建产物与可再下载组件 (不进库) =====
+# WebView2 托管 DLL (可从 NuGet 重新下载, exe 打包时已内嵌)
+webview2-lib/
+# 编译产物 (发布时走 Release 附件)
+*.exe
+
+# ===== 系统与临时文件 =====
+Thumbs.db
+*.log
+_tmp*

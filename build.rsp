@@ -1,0 +1,12 @@
+/nologo
+/utf8output
+/target:winexe
+/r:System.dll
+/r:System.Windows.Forms.dll
+/r:System.Drawing.dll
+/out:"Bambu账号切换器.exe"
+/resource:BambuAccountSwitcher.ps1,app.ps1
+/resource:webview2-lib\Microsoft.Web.WebView2.Core.dll,Microsoft.Web.WebView2.Core.dll
+/resource:webview2-lib\Microsoft.Web.WebView2.Wpf.dll,Microsoft.Web.WebView2.Wpf.dll
+/resource:webview2-lib\WebView2Loader.dll,WebView2Loader.dll
+Launcher.cs
