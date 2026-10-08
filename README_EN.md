@@ -31,7 +31,7 @@ This tool leverages a key characteristic of Bambu Studio — **the login session
 
 ### Option 1: Download the exe (recommended)
 
-1. Download `Bambu账号切换器.exe` from the [Releases](../../releases) page
+1. Download `BambuStudio-switch-v1.0.0.exe` from the [Releases](../../releases) page
 2. Double-click to run (if SmartScreen warns on first run, click "More info → Run anyway")
 3. The exe checks your environment and offers to auto-install missing components (internet required)
 

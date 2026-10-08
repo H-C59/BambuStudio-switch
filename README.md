@@ -31,7 +31,7 @@ Bambu Studio 官方客户端不支持多账号并存：每次换账号都要退�
 
 ### 方式一：直接下载 exe（推荐）
 
-1. 在 [Releases](../../releases) 页面下载 `Bambu账号切换器.exe`
+1. 在 [Releases](../../releases) 页面下载 `BambuStudio-switch-v1.0.0.exe`（即"账号切换器"打包版）
 2. 双击运行（首次运行如有 SmartScreen 提示，点"更多信息 → 仍要运行"）
 3. exe 会自动检测运行环境，缺失组件时按提示自动安装（需联网）
 
